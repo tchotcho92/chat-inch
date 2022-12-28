@@ -1,7 +1,7 @@
 ***Health Monitoring System - Patient-Doctor Live Chat!***
 ===================
 
-Hey! I'm Radhakishan Jangid. Check my portfolio from [Here ↩](https://radhakishan.vpran.in/).
+Hey! I'm Lazare NUENTSA. Check my portfolio from [Here ↩](https://radhakishan.vpran.in/).
 
 **Health Monitoring System** is a simple web project where patients can add their readings and doctors can check patient's readings and can send direct messages to each other through the application. Both patients and doctors need to log in or register before proceeds. Both patient and doctors can live chat with each other.
 
