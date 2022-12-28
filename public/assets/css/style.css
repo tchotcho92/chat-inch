@@ -723,6 +723,11 @@ table.dataTable thead > tr > td.sorting {
 	background: linear-gradient(to right, #f43b48 0%, #453a94 100%);
 	color: #fff;
 }
+
+.btn-custom1{
+	color:grey;
+}
+
 .pagination > .active > a, 
 .pagination > .active > a:focus,
 .pagination > .active > a:hover, 
@@ -2538,7 +2543,7 @@ table.dataTable thead > tr > td.sorting {
     color: #555;
     display: block;
     font-size: 14px;
-    height: 65px;
+    height: 36px;
     margin: 0;
     padding: 6px 12px;
     resize: none;

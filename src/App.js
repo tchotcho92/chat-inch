@@ -13,6 +13,7 @@ import DoctorMessageList from "./DoctorMessageList";
 import Readings from "./Readings";
 import ReadingsAdd from "./ReadingsAdd";
 import ReadingsEdit from "./ReadingsEdit";
+import SimpleModal from "./SimpleModal";
 import PatientMessageList from "./PatientMessageList";
 import PatientMessage from "./PatientMessage";
 import { fetchUserDetails } from './api';
